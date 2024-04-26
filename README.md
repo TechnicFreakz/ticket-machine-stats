@@ -8,9 +8,20 @@
 - Use the ticket machine.
 - Copy the logs into a text-file.
 
-## Clone this repository
+## Get the necessary files
 
+There are 2 possible ways to do this:
+
+### Clone this repository
+
+This is the fastsest way.
 If you do not know how to do this, take a look [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+
+### Download files manually
+
+If you do not want to clone this repository, you can do the following instead:
+- Create a new folder. I called it *ticket machine stats*.
+- Download both python files (*calculate_stats.py* and *util.py*) and move them into the folder.
 
 ## Execute
 
